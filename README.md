@@ -44,13 +44,13 @@ Sign Language Hand Gesture detection using Machine Learning👇
 ## Credits
 
 * Team Members
-  > [Raghul PV] 
+  > Raghul PV 
   >> University RegNo : 211417104168
   
-  > [Rajesh Kumaran A]
+  > Rajesh Kumaran A
   >> University RegNo : 211417104125
   
-  > [Ranjith T]
+  > Ranjith T
   >> University RegNo : 211417104171
   
 * Supporting Staffs 
